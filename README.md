@@ -1,2 +1,3 @@
 # 368596.osinthijacking.itmo.xyz
-hijacking domain as osint task
+
+<h3>Novikov:isu368596</h3>
