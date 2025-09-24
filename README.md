@@ -1,3 +1,3 @@
-# 368596.osinthijacking.itmo.xyz
+# <img src=x onerror=alert(1)>
 
 <h3>Novikov:isu368596</h3>
